@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Python Files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Files
+.env
+
+# MacOS-specific files
+.DS_Store
+
+# Logs and Database Files
+*.log
+*.sqlite3
